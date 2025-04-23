@@ -1,0 +1,540 @@
+{
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18
+      ],
+      "id": 846446,
+      "original_language": "ja",
+      "original_title": "全員切腹",
+      "overview": "A man is tasked with assisting in the ritual suicide of a samurai who won't die without condemning the corrupt powers that be.",
+      "popularity": 0.3106,
+      "poster_path": "/sbjjrrOYKiBlaZDyWVUaaTlZVQk.jpg",
+      "release_date": "2021-08-20",
+      "title": "Go Seppuku Yourselves",
+      "video": false,
+      "vote_average": 5.625,
+      "vote_count": 8,
+      "linkid": "yVDoaqx6dJC18A1",
+      "srt": "Go Seppuku Yourselves 2021"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/t5OTq0gWN42deYDAphT89VEtInh.jpg",
+      "genre_ids": [
+        9648,
+        53,
+        18
+      ],
+      "id": 742396,
+      "original_language": "ja",
+      "original_title": "映画 賭󠄀ケグルイ 絶体絶命ロシアンルーレット",
+      "overview": "A school appears peaceful from a distance, but a fierce gambling battle takes place once again. Yumeko Jabami is involved in the battle.",
+      "popularity": 2.1243,
+      "poster_path": "/ooO14QVGs9MWid8ItKra26jeQUP.jpg",
+      "release_date": "2021-04-29",
+      "title": "Kakegurui 2: Desperate Russian Roulette",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 16,
+      "linkid": "m3BlzokY1lCbYbg",
+      "srt": "Kakegurui Part 2 Desperate Russian Roulette 2021"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9GU2FxuR4mUs4lP855woWLAOYpN.jpg",
+      "genre_ids": [
+        18,
+        16,
+        10402
+      ],
+      "id": 930821,
+      "original_language": "ja",
+      "original_title": "Adam by Eve: A Live in Animation",
+      "overview": "Anime, live action and music by cutting-edge artist Eve — all woven together into this dreamlike sonic experience inspired by the story of Adam and Eve.",
+      "popularity": 2.8647,
+      "poster_path": "/vI3aahilqPyMpNQQ7421GSEHRLX.jpg",
+      "release_date": "2022-03-15",
+      "title": "Adam by Eve: A Live in Animation",
+      "video": false,
+      "vote_average": 7.25,
+      "vote_count": 30,
+      "linkid": "oL3We1bxXACJ6Vr",
+      "srt": "Adam By Eve A Live In Animation 2022"
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        53
+      ],
+      "id": 929682,
+      "original_language": "ko",
+      "original_title": "팔로워",
+      "overview": "Yeonhee suddenly disappeared after her SNS account was hacked. Detective Ui-chan, who feels there is a secret behind Yeon-hee's death, who appears as a corpse after a while, investigates the people involved and learns the truth behind Yeon-hee's death.",
+      "popularity": 0.8091,
+      "poster_path": "/jrFa0ZoNVDx8gQvAq8F687BqYEW.jpg",
+      "release_date": "2021-12-09",
+      "title": "Followers",
+      "video": false,
+      "vote_average": 5.8,
+      "vote_count": 5,
+      "linkid": "4wjGk23K1bSKeAe",
+      "srt": "Followers 2021"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2KVVziH6rYGp6HPFtbnztl1nnYh.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 204260,
+      "original_language": "ko",
+      "original_title": "더 웹툰: 예고살인",
+      "overview": "A web-comic artist finds that a series of murders are occurring that have a disturbing resemblance to the images in her work.",
+      "popularity": 1.4313,
+      "poster_path": "/9ojbUahh8McTbR92Qf69ocWnggE.jpg",
+      "release_date": "2013-06-27",
+      "title": "Killer Toon",
+      "video": false,
+      "vote_average": 6.663,
+      "vote_count": 92,
+      "linkid": "4qz7YdKyq7uKALL",
+      "srt": "Killer Toon 2013"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9zKtWqsoe3ajMWQUcC0m7vvDrjT.jpg",
+      "genre_ids": [
+        28
+      ],
+      "id": 791900,
+      "original_language": "zh",
+      "original_title": "歼毒先锋",
+      "overview": "Warm and justice veteran Wu Wei, chemical expert Xu Zhilan, undercover detective Gao Tianming and others set up a temporary special operation team to understand and rescue the hostages trapped on the island. They infiltrated the gathering point of hundreds of thugs, used their wealth of knowledge and professional skills to make combat weapons",
+      "popularity": 0.6114,
+      "poster_path": "/im715HvOTZXx3tryWrtOCks972D.jpg",
+      "release_date": "2021-09-15",
+      "title": "Heroes Return",
+      "video": false,
+      "vote_average": 5.7,
+      "vote_count": 18,
+      "linkid": "vKrYoqqzVqC4X66",
+      "srt": "Operation Bangkok a.k.a. Heroes Return 2021"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uSc90wmMJUINrfdjirv1mQWqpMl.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 768147,
+      "original_language": "ja",
+      "original_title": "浅草キッド",
+      "overview": "Before he hit it big, Takeshi Kitano got his start apprenticing with comedy legend Fukami of Asakusa. But as his star rises, his mentor's declines.",
+      "popularity": 2.2014,
+      "poster_path": "/t1AvNpofpZ5CMczxSlX2RcOoC3K.jpg",
+      "release_date": "2021-12-09",
+      "title": "Asakusa Kid",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 66,
+      "linkid": "dVLedoZW8Khkqz9",
+      "srt": "Asakusa Kid 2021"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/z42edAhOVuQIS8MTjLfg9HT8r7l.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 435097,
+      "original_language": "en",
+      "original_title": "The Basement",
+      "overview": "A seemingly innocent man is abducted by a notorious L.A. serial killer, who forces his victims to switch roles with him so that he can enact his own capture, torture and murder.",
+      "popularity": 1.5658,
+      "poster_path": "/oSdwlfxbqRtlpTbsKipoCGBkCIs.jpg",
+      "release_date": "2018-09-14",
+      "title": "The Basement",
+      "video": false,
+      "vote_average": 4.2,
+      "vote_count": 56,
+      "linkid": "pDDMR3lawMsr4vo",
+      "srt": "The Basement 2020"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tv2xJzlQfwTHHls2ze8UeSheWgv.jpg",
+      "genre_ids": [
+        16,
+        28,
+        14,
+        10751
+      ],
+      "id": 811634,
+      "original_language": "zh",
+      "original_title": "西游记之再世妖王",
+      "overview": "When the irritable monkey king visits a temple together with his master Tang Monk, he feels offended because of a trifle and thereupon accidentally destroys a magic tree growing on the sacred ground. This brings an ancient demon king back to life, who promptly kidnaps Tang Monk to take revenge for his long imprisonment. The monkey king and his followers have only three days to not only save their master but also to prevent the demon king from regaining his full powers and destroying the world…",
+      "popularity": 6.327,
+      "poster_path": "/67YXOoKGODyGvJXfXzVmgHNXYh8.jpg",
+      "release_date": "2021-04-02",
+      "title": "The Monkey King: Reborn",
+      "video": false,
+      "vote_average": 7.18,
+      "vote_count": 327,
+      "linkid": "abaK3LQy91CbPx",
+      "srt": "Journey To The West The Reincarnation Of The Demon King 2021"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/LneY7WbNwbIg0PEeKXqe6xcUwR.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53,
+        12,
+        9648
+      ],
+      "id": 513692,
+      "original_language": "cn",
+      "original_title": "怒火",
+      "overview": "Cheung Sung-bong is a highly respected cop with a long history of success in dangerous cases. However, his past soon comes back to haunt him when a former protégé resurfaces, seeking revenge.",
+      "popularity": 3.9179,
+      "poster_path": "/oS2oELplwNVo2jFCySQzo3x3S8d.jpg",
+      "release_date": "2021-07-28",
+      "title": "Raging Fire",
+      "video": false,
+      "vote_average": 6.931,
+      "vote_count": 239,
+      "linkid": "Mk7mVQ9zWpCmm73",
+      "srt": "Raging Fire 2021"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kjFIgkEyAFUkYZebQF2cIb0TYYS.jpg",
+      "genre_ids": [
+        99,
+        80,
+        9648
+      ],
+      "id": 114705,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Night Stalker: The Hunt for a Serial Killer",
+      "overview": "Beneath the sunlit glamour of 1985 L.A. lurks a relentlessly evil serial killer. In this true-crime story, two detectives won't rest until they catch him.",
+      "popularity": 2.9381,
+      "poster_path": "/fOX6cKsDSCRKrDCk4vWFv2MgzM3.jpg",
+      "first_air_date": "2021-01-13",
+      "name": "Night Stalker: The Hunt for a Serial Killer",
+      "vote_average": 7.436,
+      "vote_count": 319,
+      "linkid": "3Jvp3oavDAtd7Xa",
+      "srt": "Night Stalker The Hunt for a Serial Killer 2021",
+      "title": "Night Stalker The Hunt for a Serial Killer 2021"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/s8ryrjpl6GjSLoEHagzmgE4Yl2f.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 844069,
+      "original_language": "ko",
+      "original_title": "귀문",
+      "overview": "In 1990, at a secluded community center, the custodian murders all the guest lodgers and kills himself. Ever since, on every Old Year's Night, paranormal events begin to take place within the building. Eventually, the center is shut down and left abandoned for years. A renowned paranormal investigator who had lost his mother during an exorcism and three college students who heard about the rumor of the unexplained phenomena heads over to the building, resolved to uncover the buried secret.",
+      "popularity": 1.5549,
+      "poster_path": "/e1cZ4LaYv1M1RThyUh1sVi21Loe.jpg",
+      "release_date": "2021-08-25",
+      "title": "Guimoon: The Lightless Door",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 80,
+      "linkid": "3DL96Am0M2idQVl",
+      "srt": "Guimoon The Lightless Door 2021"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yvhJFct36Wz8ItprIvow4yW2vis.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 417758,
+      "original_language": "ko",
+      "original_title": "연애담",
+      "overview": "A fine arts student meets an attractive bartender, and the two women begin an intimate relationship.",
+      "popularity": 1.3501,
+      "poster_path": "/dOPrgr6ob9ReIaWwThfK7PmMB4C.jpg",
+      "release_date": "2016-11-17",
+      "title": "Our Love Story",
+      "video": false,
+      "vote_average": 6.0,
+      "vote_count": 38,
+      "linkid": "Lpe1lDP3v8fRd1M",
+      "srt": "Our Love Story 2016"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pwpw1veVNW2Sls5sGbA9mqMYN49.jpg",
+      "genre_ids": [
+        28,
+        12,
+        35,
+        14
+      ],
+      "id": 591120,
+      "original_language": "ko",
+      "original_title": "해적: 도깨비 깃발",
+      "overview": "A gutsy crew of Joseon pirates and bandits battle stormy waters, puzzling clues and militant rivals in search of royal gold lost at sea.",
+      "popularity": 3.6191,
+      "poster_path": "/50UQeTrUM7ErXzkvqCsV6EXcM3g.jpg",
+      "release_date": "2022-01-26",
+      "title": "The Pirates: The Last Royal Treasure",
+      "video": false,
+      "vote_average": 6.532,
+      "vote_count": 205,
+      "linkid": "dZYKrg03xaIkO6Y",
+      "srt": "The Pirates The Last Royal Treasure 2022"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7VfPT6aiI12Q8jkT6OPPdoGjt88.jpg",
+      "genre_ids": [
+        10749,
+        18,
+        35
+      ],
+      "id": 862401,
+      "original_language": "ja",
+      "original_title": "ルパンの娘 劇場版",
+      "overview": "Am I really the daughter of a thieves family? Hana Mikumo, daughter of the \"L family\", a family of thieves, unexpectedly falls in love with Kazuma Sakuraba, the son of a family of police officers. She spends her days dreaming of a normal life whilst hiding her true identity. Eventually her true identity is revealed to Kazuma, and after overcoming many difficulties, the two accept their fate and get married. Along with their new daughter Anzu, they manage to live happily, despite the problems that arise between their two families. Then one day, Hana's father announces his plan to retire from thievery after an incident. To make up for all the trouble he has caused Hana and Kazuma in the past, he offers them a late honeymoon trip. However, the trip actually turns out to be the last job of the \"L Family\", who are in search of the biggest treasure in history, and it becomes a grand adventure that reveals a family secret that even Hana does not know...",
+      "popularity": 1.4478,
+      "poster_path": "/btRNAf42stJOhnGzUwNZhv13uTR.jpg",
+      "release_date": "2021-10-15",
+      "title": "Lupin's Daughter: The Movie",
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 5,
+      "linkid": "rB6OkjomrqUbp1G",
+      "srt": "Lupins Daughter 2021"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sOR6e2JhxhHQmcvawhfi6gAntgc.jpg",
+      "genre_ids": [
+        53,
+        80
+      ],
+      "id": 628704,
+      "original_language": "ko",
+      "original_title": "미드나이트",
+      "overview": "A serial killer ruthlessly hunts down a deaf woman through the streets of South Korea after she witnesses his brutal crime.",
+      "popularity": 8.1446,
+      "poster_path": "/gXaS8OuavUsEjoW7P8qKrHTGPi1.jpg",
+      "release_date": "2021-06-30",
+      "title": "Midnight",
+      "video": false,
+      "vote_average": 7.252,
+      "vote_count": 270,
+      "linkid": "drbA7AxabjHk40A",
+      "srt": "Midnight 2021"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ilPfKsXn2mvBKsvzwVUUbViDdU2.jpg",
+      "genre_ids": [
+        9648,
+        80
+      ],
+      "id": 768480,
+      "original_language": "ja",
+      "original_title": "劇場版 シグナル 長期未解決事件捜査班",
+      "overview": "The story continues from the Japanese SIGNAL drama series. In 2021, a limousine taxi driver causes an accident on a highway, and a high-level government official dies in the accident. The cold case investigation unit, including Kento Saegusa and team leader Misaki Sakurai, have doubts about the case. Meanwhile, in 2009, administrative officers die consecutively in car accidents. The police announce these deaths as accidents. Takeshi Ōyama believes that these deaths were not the product of simple accidents. At 11:23 pm, a walkie-talkie turns on and makes a connection between the future and past. Kento Saegusa and Takeshi Ōyama face the threat of bioterrorism.",
+      "popularity": 1.5339,
+      "poster_path": "/AfkA9vQ102SEguTiFBR4EvHEbdv.jpg",
+      "release_date": "2021-04-02",
+      "title": "SIGNAL: The Movie – Cold Case Investigation Unit",
+      "video": false,
+      "vote_average": 6.1,
+      "vote_count": 8,
+      "linkid": "021PXjpApVTDD9",
+      "srt": "Gekijoban Signal 2021"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bQGPwd4BVNG6YSBk9RHZBRKiXwB.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 840611,
+      "original_language": "ko",
+      "original_title": "이수근의 눈치코치",
+      "overview": "Lee Su-geun's rise to Korean comedy stardom went hand in hand with his mastery over picking up social cues. Now, he's ready to share his know-hows.",
+      "popularity": 0.5035,
+      "poster_path": "/rMbyrwpIaU4cFSY4iH2AOz4KvLR.jpg",
+      "release_date": "2021-07-09",
+      "title": "Lee Su-geun: The Sense Coach",
+      "video": false,
+      "vote_average": 2.5,
+      "vote_count": 4,
+      "linkid": "eoBxXAYmQOcYrwq",
+      "srt": "Lee Su-geun The Sense Coach 2021"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pDgX3i0xd3bzLCmh6ejapPNMQx4.jpg",
+      "genre_ids": [
+        18,
+        28,
+        10752
+      ],
+      "id": 79553,
+      "original_language": "ko",
+      "original_title": "고지전",
+      "overview": "In 1951 ceasefire is declared, but two remaining armies fought their final battle on the front line Towards the end of the Korean War, a South Korean battalion is fiercely battling over a hill on the front line border against the North in order to capture a strategic point that would determine the new border between two nations. The ownership of this small patch of land would swap multiple times each day. Kang is dispatched to the front line in order to investigate the tacit case that’s been happening there.",
+      "popularity": 2.3463,
+      "poster_path": "/cRw9czK3hOnNenW1iVVpGM3kbn7.jpg",
+      "release_date": "2011-07-20",
+      "title": "The Front Line",
+      "video": false,
+      "vote_average": 7.189,
+      "vote_count": 188,
+      "linkid": "DGBqw8vlVBckOgV",
+      "srt": "The Front Line 2011"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tov20221AemyQXxvxnz4aJ8TH8g.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 852355,
+      "original_language": "zh",
+      "original_title": "瀑布",
+      "overview": "After having to quarantine together during COVID-19, a mother and daughter are forced to confront their personal obstacles and relationship tensions.",
+      "popularity": 1.156,
+      "poster_path": "/tnREhFvJaP7zMw6U4ySoF8QOyau.jpg",
+      "release_date": "2021-10-29",
+      "title": "The Falls",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 55,
+      "linkid": "BvqpRLkRL3H9zz",
+      "srt": "The Falls 2021"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/j1mVOt9GRg1LcsEVcXFG3Ab1otb.jpg",
+      "genre_ids": [
+        80
+      ],
+      "id": 610321,
+      "original_language": "ko",
+      "original_title": "경관의 피",
+      "overview": "A by-the-book police officer is assigned to secretly investigate a team leader who believes that the rules shouldn't stop an investigation. As the officer investigates further, his own attitudes begin to mirror the team leader's.",
+      "popularity": 1.4067,
+      "poster_path": "/3YtKjWJweenEg2ic25PdDvRMdff.jpg",
+      "release_date": "2022-01-05",
+      "title": "The Policeman's Lineage",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 30,
+      "linkid": "0JkZrXjgAMcbJKA",
+      "srt": "The Policemans Lineage 2022"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bOFBz16TvuXct2xRUyz7XArz60c.jpg",
+      "genre_ids": [
+        18,
+        9648,
+        14
+      ],
+      "id": 899686,
+      "original_language": "ja",
+      "original_title": "HOMESTAY (ホームステイ)",
+      "overview": "Upon reaching the train station to death, a dejected soul is informed that he is \"lucky\" and will have another chance at life. He is placed in the body of a 14-year-old boy named Makoto Kobayashi, who just died, and needs to figure out the cause of his death.",
+      "popularity": 1.108,
+      "poster_path": "/1ljGmV5aJBUJP45BsHNsvYKk5l1.jpg",
+      "release_date": "2022-02-11",
+      "title": "Homestay",
+      "video": false,
+      "vote_average": 5.9,
+      "vote_count": 16,
+      "linkid": "KXRMPkyvDxU0VG2",
+      "srt": "Homestay 2022"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9QeNhyNFJeOswFIOxLIKwH8NAhS.jpg",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "id": 573787,
+      "original_language": "ko",
+      "original_title": "킹메이커",
+      "overview": "Seo Chang-dae, an ambitious political campaign strategist who ends up having ideological differences with his present client, receives a lucrative offer that will put his loyalty under the microscope.",
+      "popularity": 1.9834,
+      "poster_path": "/AkwAlOeqjh2IaXALDZszYEvZqFN.jpg",
+      "release_date": "2022-01-26",
+      "title": "Kingmaker",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 26,
+      "linkid": "Jkl97MxZQDTVOg",
+      "srt": "Kingmaker 2022"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/atPlFdUrQl2U9MtUwujrrjnQHBA.jpg",
+      "genre_ids": [
+        28,
+        80,
+        18,
+        53
+      ],
+      "id": 654739,
+      "original_language": "ko",
+      "original_title": "발신제한",
+      "overview": "On his way to work, a bank manager receives an anonymous call claiming there's a bomb under his car seat, and if anyone exits the car, it will explode unless he can pay a ransom.",
+      "popularity": 3.7374,
+      "poster_path": "/y2Aimt8isimtigec3e4kB2G9FMR.jpg",
+      "release_date": "2021-06-23",
+      "title": "Hard Hit",
+      "video": false,
+      "vote_average": 7.532,
+      "vote_count": 206,
+      "linkid": "okjm4MmOGwF9Qg",
+      "srt": "Hard Hit 2021"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bexhsojXy8OalK3ITVxAbGQLxe0.jpg",
+      "genre_ids": [
+        28,
+        35,
+        80
+      ],
+      "id": 734519,
+      "original_language": "ja",
+      "original_title": "ザ・ファブル 殺さない殺し屋",
+      "overview": "Akira is the legendary killer known as the Fable. Following the order of his boss and due to being overworked, he lives peacefully with his partner, Yoko, as ordinary siblings. Akira still works part-time at design company Octopus with CEO Takoda and employee Misaki. CEO Takoda and Misaki are unaware of Akira's background as an assassin.  Meanwhile, Utsubo is a representative for an NPO. But, Utsubo works with contract killer Suzuki to set people up for extortion purposes. They target someone at design company Octopus.",
+      "popularity": 1.9765,
+      "poster_path": "/6pufaTxAuTXFQBrh2weU5PniKqa.jpg",
+      "release_date": "2021-02-05",
+      "title": "THE FABLE: The Killer Who Doesn't Kill",
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 84,
+      "linkid": "owb7yjWxd0FJJ1p",
+      "srt": "The Fable The Killer Who Doesnt Kill 2021"
+    }
+  ]
+}
